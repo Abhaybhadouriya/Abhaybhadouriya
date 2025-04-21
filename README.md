@@ -9,7 +9,9 @@
 
 - 🌱 I’m currently learning **Hadoop, Hive, NoSQL Systems, SpringBoot**
 
-- 👯 I’m looking to collaborate on [Custom E-Book Generator](https://github.com/enum3rat3/Custom-EBook)
+- 👯 I’m currently collaborating to [Custom E-Book Generator](https://github.com/enum3rat3/Custom-EBook)
+- 
+- 👯 I’m currently collaborating to [Multi-services Hostel Management system - Devops Integration ](https://github.com/enum3rat3/Hostel-Management-System)
 
 - 👨‍💻 All of my projects are available at [https://github.com/Abhaybhadouriya](https://github.com/Abhaybhadouriya)
 
